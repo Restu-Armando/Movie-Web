@@ -1,4 +1,10 @@
-<img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/1f70b6a9-da55-4486-b630-d62a29314e34" /><img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/73b801f5-f860-42ad-ad8f-6eada0b32b13" /># 🎬 Movie App
+🎬 Movie App
+
+🚀 Deployment
+This project is deployed on Netlify:
+🔗 [Live Demo](https://movie-app-restuarmando.netlify.app/)
+
+
 
 A simple movie listing application that fetches data from the **TMDB API**, allows users to **search movies**, view **movie details**, and includes a **basic authentication system** (login, register, logout).
 
@@ -12,15 +18,15 @@ A simple movie listing application that fetches data from the **TMDB API**, allo
 ✅ Pagination for movie list  
 ✅ Error handling for API failures
 
-## 📸 Screenshots
+## 🖼 Screenshots
 
-| Home Page                          | Movie Detail                            | Authentication                       |
-| ---------------------------------- | --------------------------------------- | ------------------------------------ |
-| <img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/05ddf657-0394-478d-84c6-fb9f0efe4940" />
-) | <img width="1496" alt="Screen Shot 2025-03-10 at 16 52 17" src="https://github.com/user-attachments/assets/733272bc-7ecc-4357-a842-341407479e97" />
- |  <img width="1496" alt="Screen Shot 2025-03-10 at 16 52 43" src="https://github.com/user-attachments/assets/da992bc2-e6fa-49aa-a9be-01aa02999808" />|
- <img width="1496" alt="Screen Shot 2025-03-10 at 16 53 26" src="https://github.com/user-attachments/assets/555778c6-0490-4143-8a63-4f1d6379f922" />
+| Movie List | Movie Detail |
+|------------|-------------|
+| ![Movie List](screenshots/movie-list.png) | ![Movie Detail](screenshots/movie-detail.png) |
 
+| Login Page | Profile Page |
+|------------|-------------|
+| ![Login Page](screenshots/login.png) | ![Profile Page](screenshots/profile.png) |
 
 
 ## 🛠 Tech Stack
