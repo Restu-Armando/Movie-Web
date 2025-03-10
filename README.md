@@ -1,4 +1,4 @@
-# 🎬 Movie App
+<img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/1f70b6a9-da55-4486-b630-d62a29314e34" /><img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/73b801f5-f860-42ad-ad8f-6eada0b32b13" /># 🎬 Movie App
 
 A simple movie listing application that fetches data from the **TMDB API**, allows users to **search movies**, view **movie details**, and includes a **basic authentication system** (login, register, logout).
 
@@ -16,7 +16,8 @@ A simple movie listing application that fetches data from the **TMDB API**, allo
 
 | Home Page                          | Movie Detail                            | Authentication                       |
 | ---------------------------------- | --------------------------------------- | ------------------------------------ |
-| ![Home Page](screenshots/home.png) | ![Movie Detail](screenshots/detail.png) | ![Login Page](screenshots/login.png) |
+| ![Home Page](<img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/05ddf657-0394-478d-84c6-fb9f0efe4940" />
+) | ![Movie Detail](screenshots/detail.png) | ![Login Page](screenshots/login.png) |
 
 ## 🛠 Tech Stack
 
@@ -31,8 +32,8 @@ A simple movie listing application that fetches data from the **TMDB API**, allo
 1️⃣ Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/movie-app.git
-cd movie-app
+git clone [https://github.com/yourusername/movie-app.git](https://github.com/Restu-Armando/Movie-Web.git)
+cd Movie-Web
 npm install
 ```
 
