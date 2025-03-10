@@ -16,8 +16,12 @@ A simple movie listing application that fetches data from the **TMDB API**, allo
 
 | Home Page                          | Movie Detail                            | Authentication                       |
 | ---------------------------------- | --------------------------------------- | ------------------------------------ |
-| ![Home Page](<img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/05ddf657-0394-478d-84c6-fb9f0efe4940" />
-) | ![Movie Detail](screenshots/detail.png) | ![Login Page](screenshots/login.png) |
+| <img width="1493" alt="Screen Shot 2025-03-10 at 16 45 36" src="https://github.com/user-attachments/assets/05ddf657-0394-478d-84c6-fb9f0efe4940" />
+) | <img width="1496" alt="Screen Shot 2025-03-10 at 16 52 17" src="https://github.com/user-attachments/assets/733272bc-7ecc-4357-a842-341407479e97" />
+ |  <img width="1496" alt="Screen Shot 2025-03-10 at 16 52 43" src="https://github.com/user-attachments/assets/da992bc2-e6fa-49aa-a9be-01aa02999808" />|
+ <img width="1496" alt="Screen Shot 2025-03-10 at 16 53 26" src="https://github.com/user-attachments/assets/555778c6-0490-4143-8a63-4f1d6379f922" />
+
+
 
 ## 🛠 Tech Stack
 
