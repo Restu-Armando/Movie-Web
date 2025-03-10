@@ -42,7 +42,7 @@ A simple movie listing application that fetches data from the **TMDB API**, allo
 1️⃣ Clone the repository:
 
 ```sh
-git clone (https://github.com/Restu-Armando/Movie-Web.git)
+git clone https://github.com/Restu-Armando/Movie-Web.git
 cd Movie-Web
 npm install
 ```
